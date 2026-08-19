@@ -2,11 +2,9 @@
 <html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
-        <title> Site aurudo </title>
-        <link rel="stylesheet" href="style.css">
+        <meta name="Viewport" content="width=device-width, initital-scale=1.0">
+        <title> polvos </title>
+        <link rel="styleseet" href="style.css">
     </head>
-
     <body>
-        
-    </body>
-</html>
+    <h1>3 curisidade sobre o cristiano ronaldo 
